@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=itchyfeet-patient)](https://solved.ac/itchyfeet-patient)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ijmmy24)](https://solved.ac/ijmmy24)
 
 - 👋 Hi, I’m @itchyfeet-patient
 - 👀 I’m interested in ...
