@@ -14,4 +14,4 @@
 
 
 ## Contact
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8)
