@@ -1,3 +1,6 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=itchyfeet-patient)](https://solved.ac/itchyfeet-patient)
+
 - 👋 Hi, I’m @itchyfeet-patient
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
