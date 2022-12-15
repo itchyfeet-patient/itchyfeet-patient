@@ -5,13 +5,15 @@
 
 ![Jumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itchyfeet-patient&show_icons=true&theme=tokyonight)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ijmmy24)](https://solved.ac/ijmmy24)
-
 ## Tech Skill
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=plastic&logo=TensorFlow&logoColor=white)
-
+![pandas](https://img.shields.io/badge/pandas-150458?&style=plastic&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?&style=plastic&logo=Keras&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?&style=plastic&logo=VisualStudioCode&logoColor=white)
 
 ## Contact
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8)
+<a href="https://open.spotify.com/user/luna__sol?si=928c745c902948d8">
+  <img
+       src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8">
+</a>
