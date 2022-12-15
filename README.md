@@ -9,7 +9,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ijmmy24)](https://solved.ac/ijmmy24)
 
 ## Tech Skill
-
+![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=plastic&logo=TensorFlow&logoColor=white)
 
 
 ## Contact
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8)
