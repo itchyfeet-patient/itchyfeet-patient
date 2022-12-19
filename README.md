@@ -21,9 +21,9 @@ I'm interested in...
 ## Contact
 <a href="mailto:jumi.lee106@gmail.com">
   <img
-       src="https://img.shields.io/badge/Gmail-EA4335?&style=plastic&logo=Gmail&link=mailto:jumi.lee106@gmail.com">
+       src="https://img.shields.io/badge/Gmail-EA4335?&style=plastic&logo=Gmail&logoColor=white&link=mailto:jumi.lee106@gmail.com">
 </a>
 <a href="https://open.spotify.com/user/luna__sol?si=928c745c902948d8">
   <img
-       src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8">
+       src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/luna__sol?si=928c745c902948d8">
 </a>
