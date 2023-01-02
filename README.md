@@ -9,7 +9,7 @@ I'm interested in...
 
 
 
-![Jumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itchyfeet-patient&show_icons=true&theme=tokyonight)
+![Jumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itchyfeet-patient&show_icons=true&theme=github_dark)
 
 ## Tech Skill
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
